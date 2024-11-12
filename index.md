@@ -1,5 +1,5 @@
 ---
-theme: minimal
+theme: jekyll-theme-minimal
 title: AQWorlds Bot Privacy Policy
 ---
 
