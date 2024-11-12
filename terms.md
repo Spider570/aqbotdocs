@@ -1,8 +1,8 @@
 ---
-title: AQWorlds Bot Terms of Service
+title: Terms of Service
 ---
 
-# AQW Utility Bot Terms of Service
+# Terms of Service
 
 **Effective Date:** [11/11/2024]
 

@@ -5,4 +5,6 @@ github:
 header_pages:
   - index.md
   - terms.md
+minima:
+  skin: dark
   

@@ -1,5 +1,5 @@
 ---
-title: AQWorlds Bot Privacy Policy
+title: Privacy Policy
 ---
 
 # AQWorlds Bot Privacy Policy
