@@ -2,8 +2,6 @@
 title: Terms of Service
 ---
 
-# Terms of Service
-
 **Effective Date:** [11/11/2024]
 
 ## 1. Acceptance of Terms

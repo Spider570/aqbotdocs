@@ -2,8 +2,6 @@
 title: Privacy Policy
 ---
 
-# AQWorlds Bot Privacy Policy
-
 **Effective Date:** [11/11/2024]
 
 ## 1. Introduction
