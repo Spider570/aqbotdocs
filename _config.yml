@@ -1,5 +1,4 @@
-theme: jekyll-theme-minima
-title: AQWorlds Bot Privacy Policy
+theme: jekyll-theme-minimal
 github:
   is_project_page: false
 header_pages:
