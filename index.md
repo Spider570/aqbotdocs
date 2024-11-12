@@ -36,8 +36,8 @@ Users can delete their data by:
 Users have the right to:
 
 - Request access to their data.
-- Request deletion of their data by contacting the bot developer.
-- Opt-out of data collection by contacting the bot developer.
+- Request deletion of their data by contacting the bot developer or through the support server.
+- Opt-out of data collection by contacting the bot developer or through the support server.
 
 ## 7. Security
 The bot's host is secured on Oracle Cloud, and access is protected by SSH keys and 2FA. Sensitive data, such as tokens, is securely stored in a JSON file.
