@@ -1,4 +1,5 @@
 ---
+theme: minimal
 title: AQWorlds Bot Privacy Policy
 ---
 
