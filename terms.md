@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minima 
 title: AQWorlds Bot Terms of Service
 ---
 
